@@ -1,0 +1,6 @@
+sender,email_count,avg_polarity,avg_subjectivity
+alice@example.com,8,-0.08437499999999999,0.2875
+bob@customer.com,1,0.0,0.0
+charlie@partner.org,1,0.1,0.4
+diana@client.co,5,-0.145,0.21333333333333332
+eve@startup.io,5,0.09,0.445
